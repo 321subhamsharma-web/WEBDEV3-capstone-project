@@ -1,4 +1,6 @@
-# E-Commerce and Inventory Management System (Backend)
+# WEBDEV3-capstone-project
+
+## E-Commerce and Inventory Management System (Backend)
 
 Capstone Project - Node.js, Express.js, MongoDB, Mongoose, JWT, bcrypt, EventEmitter, and Socket.IO.
 
